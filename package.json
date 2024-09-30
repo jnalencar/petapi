@@ -1,0 +1,8 @@
+{
+  "type":"module",
+  "dependencies": {
+    "chromedriver": "^129.0.1",
+    "express": "^4.21.0",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
